@@ -16,7 +16,7 @@ I am a **3rd-year Computer Civil Engineering student** and a **Junior Full Stack
 
 ### 📈 Featured Projects
 * **[Discord Auto-Support Bot](Not uploaded yet...):** A Node.js based bot designed to optimize customer support for virtual stores.
-* **[Web Development Portfolio]([https://github.com/sunfers/web-portfolio](https://github.com/Sxnr/Catalogo-Web-Administracion-de-Ventas-Pyme)):** Collection of responsive web interfaces built with modern HTML/CSS.
+* **[[Web Development Portfolio]]([https://github.com/sunfers/web-portfolio](https://github.com/Sxnr/Catalogo-Web-Administracion-de-Ventas-Pyme)):** Collection of responsive web interfaces built with modern HTML/CSS.
 * **[Python Automation Tools](Not uploaded yet...):** Scripts for data processing and task automation.
 
 ### 📫 Connect with me
