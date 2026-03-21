@@ -20,7 +20,7 @@ I am a **3rd-year Computer Civil Engineering student** and a **Junior Full Stack
 * **[Python Automation Tools](Not uploaded yet...):** Scripts for data processing and task automation.
 
 ### 📫 Connect with me
-- **LinkedIn:** [[Tu enlace a LinkedIn aquí]](https://www.linkedin.com/in/francisco-carrera-2320223b7/)
+- **LinkedIn:** [[LinkedIn]](https://www.linkedin.com/in/francisco-carrera-2320223b7/)
 - **Email:** franciscocarrera956@gmail.com
 - **Location:** Puente Alto, Santiago, Chile 🇨🇱
 
