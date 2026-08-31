@@ -26,9 +26,8 @@ Here are some of the main repositories I've been working on and documenting my p
 - 🖥️ [**Completos Hosting**](https://github.com/Sxnr/completos-hosting): Infrastructure and hosting solutions for web services.
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sxnr&show_icons=true&theme=radical" alt="Sxnr's GitHub Stats" />
-</p>
+
+[![Sxnr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxnr&show_icons=true&theme=radical)](https://github.com/Sxnr)
 
 ## 📫 How to reach me
 
