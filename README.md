@@ -27,7 +27,7 @@ Here are some of the main repositories I've been working on and documenting my p
 
 ## 📊 GitHub Stats
 
-[![Sxnr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxnr&show_icons=true&theme=radical)](https://github.com/Sxnr)
+[![Sxnr's GitHub Streak](https://streak-stats.demolab.com/?user=Sxnr&theme=radical&hide_border=true)](https://github.com/Sxnr)
 
 ## 📫 How to reach me
 
